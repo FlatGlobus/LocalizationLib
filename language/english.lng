@@ -1,0 +1,57 @@
+[LangInfo]
+LanguageID = 1033
+Language = English USA
+
+[CLocalizeAppDemoView]
+1016 = localized button
+1016.t = localized button tooltip
+1017.0 = localized Item1
+1017.1 = localized Item2
+1017.2 = localized Item3
+1017.3 = localized Item4
+1017.t = localized listbox tooltip
+1018 = localized Text
+1018.t = localized static tooltip
+
+[CMainFrame]
+;main menu
+57600.p = localized &File
+57600.m = localized &New\tCtrl+N
+57601.m = localized &Open...\tCtrl+O
+57603.m = localized &Save\tCtrl+S
+57604.m = localized Save &As...
+57607.m = localized &Print...\tCtrl+P
+57609.m = localized Print Pre&view
+57606.m = localized P&rint Setup...
+57665.m = localized E&xit
+57643.p = localized &Edit
+57643.m = localized &Undo\tCtrl+Z
+57635.m = localized Cu&t\tCtrl+X
+57634.m = localized &Copy\tCtrl+C
+57637.m = localized &Paste\tCtrl+V
+59392.p = localized &View
+59392.m = localized &Toolbar
+59393.m = localized &Status Bar
+57664.p = localized &Help
+57664.m = localized &About LocalizeAppDemo...
+;statusbar and tooltips
+57600 = localized Create a new document\nlocalized New
+57601 = localized Open an existing document\nlocalized Open
+57603 = localized Save the active document\nlocalized Save
+57604 = localized Save the active document with a new name\nlocalized Save As
+57606 = localized Change the printer and printing options\nlocalized Print Setup
+57607 = localized Print the active document\nlocalized Print
+57609 = localized Display full pages\nlocalized Print Preview
+57664 = localized Display program information, version number and copyright\nlocalized About
+57665 = localized Quit the application; prompts to save documents\nlocalized Exit
+57634 = localized Copy the selection and put it on the Clipboard\nlocalized Copy
+57635 = localized Cut the selection and put it on the Clipboard\nlocalized Cut
+57637 = localized Insert Clipboard contents\nlocalized Paste
+57643 = localized Undo the last action\nlocalized Undo
+59392 = localized Show or hide the toolbar\nlocalized Toggle ToolBar
+59393 = localized Show or hide the status bar\nlocalized Toggle StatusBar
+
+[CAboutDlg]
+Caption = localized About
+1 = localized OK
+1001 = localized LocalizationLib demo

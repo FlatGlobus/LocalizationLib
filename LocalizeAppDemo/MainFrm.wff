@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Form Page="Form" Class="CFrameWindowImpl" AcceptFiles="false" AppWindow="false" BaseCtrlID="1000" BorderStyle="WS_THICKFRAME" Caption="" CaptionBar="true" ClientEdge="false" ClientHeight="446" ClientWidth="632" ClipChildren="false" ClipSiblings="true" Color="COLOR_WINDOW" ContextHelp="false" ControlParent="false" CtrlWindowStyle="349110272" CtrlWindowStyleEx="256" EnableLayout="false" GSGuides="false" Generate="true" Grid="true" HScroll="false" Height="480" Left="326" Localize="false" MDIChild="false" MaximizeBox="true" Menu="NULL" MinimizeBox="true" ModalFrame="false" NPositions="1" Name="CMainFrame" ParentName="m_hWnd" ShowWindow="true" StaticEdge="false" SysMenu="true" ToolWindow="false" Top="247" TopMost="false" Transparent="false" UniqueID="1" VScroll="false" Visible="true" Width="640" WindowClass="false" WindowClassStyle="11" WindowEdge="true" WindowStyle="WS_OVERLAPPED" WndClient="NULL" WndStatusBar="NULL" WndToolBar="NULL">
+	<Font Height="-12" Bold="false" Italic="false" Underline="false" StrikeOut="false" CharSet="DEFAULT_CHARSET" FaceName="MS Sans Serif"/>
+	<GSGuides FromLeftToRight="true" FromTopToBottom="true" Moveable="false" OffsetX="0" OffsetY="0"/>
+	<Grid GridWidth="6" GridHeight="6"/>
+	<Icon FileName=".\res\LocalizeAppDemo.ico" ID="IDR_MAINFRAME" ImageType="Icon"/>
+	<Localize LocalizeName="" LangID="Russian"/>
+	<WindowClass ClassName="NULL" CommonResID="" CS_BYTEALIGNCLIENT="false" CS_BYTEALIGNWINDOW="false" CS_CLASSDC="false" CS_DBLCLKS="true" CS_GLOBALCLASS="false" CS_HREDRAW="true" CS_NOCLOSE="false" CS_OWNDC="false" CS_PARENTDC="false" CS_SAVEBITS="false" CS_VREDRAW="true"/>
+	<Controls LastCtrlId="1"/>
+</Form>
